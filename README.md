@@ -1,6 +1,6 @@
 # LLM Evaluation for Enterprise IT Operations
 
-[Full evaluation report (PDF)](https://github.com/bobyyasmen-pixel/Llm-evaluation-enterprise-it-operations/raw/main/LLM_Evaluation_Report.pdf) | [Response tracker (Excel)](https://github.com/bobyyasmen-pixel/Llm-evaluation-enterprise-it-operations/raw/main/LLM_Response_Tracker.xlsx)
+[Full evaluation report (PDF)](https://github.com/Babitakharka/Llm-evaluation-enterprise-it-operations/raw/main/LLM_Evaluation_Report.pdf) | [Response tracker (Excel)](https://github.com/Babitakharka/Llm-evaluation-enterprise-it-operations/raw/main/LLM_Response_Tracker.xlsx)
 
 A preliminary, controlled comparison of five large language models on enterprise IT operations work.
 
