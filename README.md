@@ -1,5 +1,7 @@
 # LLM Evaluation for Enterprise IT Operations
 
+[Full evaluation report (PDF)](https://github.com/bobyyasmen-pixel/Llm-evaluation-enterprise-it-operations/raw/main/LLM_Evaluation_Report.pdf) | [Response tracker (Excel)](https://github.com/bobyyasmen-pixel/Llm-evaluation-enterprise-it-operations/raw/main/LLM_Response_Tracker.xlsx)
+
 A preliminary, controlled comparison of five large language models on enterprise IT operations work.
 
 ## Overview
@@ -17,8 +19,8 @@ ChatGPT 85.3, Claude 83.4, Microsoft Copilot 82.7, Perplexity 81.4, Gemini 81.3.
 Scoring was rule-based and AI-assisted, with no independent human raters. Each scenario was run once, using free tiers and single-turn chat. The results are preliminary and do not show that any model is better.
 
 ## Contents
-- Evaluation report: methodology, responses, scoring, findings and recommendations
-- Response tracker (Excel)
+- Evaluation report (PDF): methodology, responses, scoring, findings and recommendations
+- Response tracker (Excel): condensed summary of all 125 responses
 
 ## Author
 Babita Kharka, IT operations and service delivery, Bengaluru, India
